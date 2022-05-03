@@ -1,0 +1,7 @@
+{
+  "name": "TAREAPI",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
